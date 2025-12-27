@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Как это работает?",
+  "text": "1️⃣Ты присоединяешься к сообществу\n\n2️⃣Участвуешь анонимно или открыто\n\n3️⃣ Берёшь что подходит, остальное можешь отложить на потом\n\n4️⃣ Вся помощь и опыт трезвости - передается бесплатно",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Почему это работает?",
+      "content": "Трезвый Дом - это сообщество трезвых алкоголиков, которые понимают тебя, как себя и могут опытом пути к трезвости. Многие из нас прошли от первых дней ужасного похмелья, до многих лет счастливой трезвой жизни.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Молчать или общаться?",
+      "content": "Сообщество существует с 2021 года и насчитывает более 4600 участников. Ежедневный онлайн более 800 человек. Участники - обычные люди, выздоравливающие от алкоголизма.",
       "icon": "notes.svg"
     }
   ]
